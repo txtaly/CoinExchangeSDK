@@ -1,4 +1,4 @@
-CoinEx, CoinBig, AllCoin API接口封装的SDK
+CoinEx, CoinBig, AllCoin, BGOGO API接口封装的SDK
  
 其他平台陆续更新
  
